@@ -1,0 +1,7 @@
+{
+    "data" : [
+    {"name": "CNN","name2": "CNN2"},
+    {"name": "AutoEncoder","name2": "AutoEncoder2"},
+    {"name": "GAN","name2": "GAN2"}
+    ]
+}

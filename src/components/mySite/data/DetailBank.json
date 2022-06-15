@@ -1,0 +1,227 @@
+{
+    "content": [
+        {
+            "uuid": "456e0029-9ce3-42ac-96f5-ff8b65f2d5ed",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBHNFM",
+            "hash": "5885a654f8dfc96d506a8d80dbc4635ccf9687750b4bfdb1aa06a071c341877e",
+            "encData": "101****6007304",
+            "reqTime": [
+                2020,
+                9,
+                11,
+                5,
+                14,
+                43,
+                761
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2020,
+                9,
+                11,
+                5,
+                14,
+                44,
+                837
+            ],
+            "result": null,
+            "ecode": null,
+            "errmsg": null,
+            "etrack": null,
+            "listCount": 0
+        },
+        {
+            "uuid": "83ca589b-ce69-42c5-b1a1-7b80b57b9702",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBKBFM",
+            "hash": "509a443d7a3865d81d2e5978fba798755490a1782e849a1420d118aed71256b1",
+            "encData": "767****1217321",
+            "reqTime": [
+                2020,
+                9,
+                11,
+                5,
+                14,
+                44,
+                651
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2020,
+                9,
+                11,
+                5,
+                14,
+                46,
+                28
+            ],
+            "result": null,
+            "ecode": null,
+            "errmsg": null,
+            "etrack": null,
+            "listCount": 0
+        },
+        {
+            "uuid": "cc631be7-e287-40b6-9ef8-f191f8987040",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBHNFM",
+            "hash": "b56a4e722ce3ddc67923a87a420c2f326ae7a5c6030c23ead0c55a611d6ad4ac",
+            "encData": "553****5630205",
+            "reqTime": [
+                2021,
+                11,
+                11,
+                4,
+                15,
+                26,
+                277
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2021,
+                11,
+                11,
+                4,
+                15,
+                29,
+                31
+            ],
+            "result": "FAIL",
+            "ecode": "ERR_MLCOM_MSG30000",
+            "errmsg": "PASSWORD필드값을 입력해주시기 바랍니다",
+            "etrack": "0030",
+            "listCount": 0
+        },
+        {
+            "uuid": "34154181-a578-4208-9db4-92918b191403",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBHNFM",
+            "hash": "b56a4e722ce3ddc67923a87a420c2f326ae7a5c6030c23ead0c55a611d6ad4ac",
+            "encData": "553****5630205",
+            "reqTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                2,
+                629
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                7,
+                443
+            ],
+            "result": "SUCCESS",
+            "ecode": "null",
+            "errmsg": "",
+            "etrack": "null",
+            "listCount": 48
+        },
+        {
+            "uuid": "2a568ce3-5556-4cc7-9f3f-b40b024e1908",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBHNFM",
+            "hash": "179ef6ffb8b2f5f50c5b29e27fafc2988956d3903015409aa92b7d1312e43c6d",
+            "encData": "553****5630209",
+            "reqTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                26,
+                921
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                30,
+                711
+            ],
+            "result": "FAIL",
+            "ecode": "ERR_MBMSG_MSG11013",
+            "errmsg": "해당 계좌는 거래내역서비스가 지원되지 않는 계좌입니다.",
+            "etrack": "3000",
+            "listCount": 0
+        },
+        {
+            "uuid": "2bc30984-4189-4606-b404-2fe8249d35f6",
+            "userId": "barobill",
+            "uri": "/fm/bank/bankstatementEasyInquiry",
+            "type": "ACCOUNT",
+            "fcode": "MBHNFM",
+            "hash": "73cc37c9b41081f28c49571270624d8109e5519a0fd5c8a5deb5cf9efdeceeac",
+            "encData": "553****563020",
+            "reqTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                47,
+                786
+            ],
+            "errCode": "0000",
+            "resTime": [
+                2021,
+                11,
+                11,
+                4,
+                16,
+                52,
+                65
+            ],
+            "result": "FAIL",
+            "ecode": "ERR_MBMSG_MSG11012",
+            "errmsg": "조회 가능한 계좌번호인지를 다시 확인하시기 바랍니다.",
+            "etrack": "3050",
+            "listCount": 0
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageSize": 20,
+        "pageNumber": 0,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 6,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "numberOfElements": 6,
+    "first": true,
+    "size": 20,
+    "number": 0,
+    "empty": false
+}
